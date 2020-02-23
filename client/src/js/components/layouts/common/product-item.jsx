@@ -122,11 +122,12 @@ class ProductItem extends Component {
                                     <div className="row">
                                         <div className="col-lg-6  col-xs-12">
                                             <div className="quick-view-img">
-                                                <img src={`${
+                                                <img src={`${process.env.PUBLIC_URL}/${
                                                     product.variants?
                                                         this.state.image?this.state.image:product.variants[0].images
                                                         :product.pictures[0]
-                                                    }`} alt="" className="img-fluid" />
+                                                    }`} 
+                                                    alt="Image not fetched" className="img-fluid" />
                                             </div>
                                         </div>
                                         <div className="col-lg-6 rtl-text">
