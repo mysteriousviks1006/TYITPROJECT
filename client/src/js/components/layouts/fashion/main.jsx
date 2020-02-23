@@ -17,9 +17,9 @@ import {
 
 class Fashion extends Component {
 
-    componentDidMount() {
+/*     componentDidMount() {
         document.getElementById("color").setAttribute("href", `#` );
-    }
+    } */
 
 	render() {
 		return (

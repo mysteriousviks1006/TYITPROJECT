@@ -25,13 +25,13 @@ class HeaderOne extends Component {
     /*=====================
          Pre loader
          ==========================*/
-    componentDidMount() {
+/*     componentDidMount() {
         setTimeout(function() {
-            document.querySelector(".loader-wrapper").style = "display: none";
+           document.querySelector(".loader-wrapper").style = "display: none"; 
         }, 2000);
 
         this.setState({ open: true });
-    }
+    } */
 
     componentWillMount(){
         window.addEventListener('scroll', this.handleScroll);
