@@ -8381,7 +8381,7 @@
 [class^="icon-"],
 [class*=" icon-"] {
   font-family: 'themify';
-  speak: none;
+  // speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -8395,7 +8395,8 @@
 [class*=" icon-"]:before {
   text-decoration: inherit;
   display: inline-block;
-  speak: none; }
+  //speak: none;
+ }
 
 /* makes the font 33% larger relative to the icon container */
 .icon-large:before {

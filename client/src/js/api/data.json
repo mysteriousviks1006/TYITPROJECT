@@ -7,10 +7,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/1.jpg",
-                "/multikart/assets/images/fashion/product/21.jpg",
-                "/multikart/assets/images/fashion/product/36.jpg",
-                "/multikart/assets/images/fashion/product/12.jpg"
+                "assets/images/fashionproduct/1.jpg",
+                "assets/images/fashionproduct/21.jpg",
+                "assets/images/fashionproduct/36.jpg",
+                "assets/images/fashionproduct/12.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -36,15 +36,15 @@
             "variants": [
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/1.jpg"
+                    "images": "assets/images/fashionproduct/1.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/21.jpg"
+                    "images": "assets/images/fashionproduct/21.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/36.jpg"
+                    "images": "assets/images/fashionproduct/36.jpg"
                 }
             ]
         },
@@ -55,10 +55,10 @@
             "salePrice": 165,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/15.jpg",
-                "/multikart/assets/images/fashion/product/7.jpg",
-                "/multikart/assets/images/fashion/product/9.jpg",
-                "/multikart/assets/images/fashion/product/13.jpg"
+                "assets/images/fashionproduct/15.jpg",
+                "assets/images/fashionproduct/7.jpg",
+                "assets/images/fashionproduct/9.jpg",
+                "assets/images/fashionproduct/13.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -83,11 +83,11 @@
             "variants": [
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/15.jpg"
+                    "images": "assets/images/fashionproduct/15.jpg"
                 },
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/7.jpg"
+                    "images": "assets/images/fashionproduct/7.jpg"
                 }
             ]
         },
@@ -98,10 +98,10 @@
             "salePrice": 250,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/32.jpg",
-                "/multikart/assets/images/fashion/product/2.jpg",
-                "/multikart/assets/images/fashion/product/25.jpg",
-                "/multikart/assets/images/fashion/product/26.jpg"
+                "assets/images/fashionproduct/32.jpg",
+                "assets/images/fashionproduct/2.jpg",
+                "assets/images/fashionproduct/25.jpg",
+                "assets/images/fashionproduct/26.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -126,15 +126,15 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/32.jpg"
+                    "images": "assets/images/fashionproduct/32.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/2.jpg"
+                    "images": "assets/images/fashionproduct/2.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/25.jpg"
+                    "images": "assets/images/fashionproduct/25.jpg"
                 }
             ]
         },
@@ -145,10 +145,10 @@
             "salePrice": 360,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/5.jpg",
-                "/multikart/assets/images/fashion/product/12.jpg",
-                "/multikart/assets/images/fashion/product/31.jpg",
-                "/multikart/assets/images/fashion/product/18.jpg"
+                "assets/images/fashionproduct/5.jpg",
+                "assets/images/fashionproduct/12.jpg",
+                "assets/images/fashionproduct/31.jpg",
+                "assets/images/fashionproduct/18.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -173,15 +173,15 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/5.jpg"
+                    "images": "assets/images/fashionproduct/5.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/12.jpg"
+                    "images": "assets/images/fashionproduct/12.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/31.jpg"
+                    "images": "assets/images/fashionproduct/31.jpg"
                 }
             ]
         },
@@ -192,10 +192,10 @@
             "salePrice": 840,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/13.jpg",
-                "/multikart/assets/images/fashion/product/10.jpg",
-                "/multikart/assets/images/fashion/product/21.jpg",
-                "/multikart/assets/images/fashion/product/15.jpg"
+                "assets/images/fashionproduct/13.jpg",
+                "assets/images/fashionproduct/10.jpg",
+                "assets/images/fashionproduct/21.jpg",
+                "assets/images/fashionproduct/15.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -221,15 +221,15 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/13.jpg"
+                    "images": "assets/images/fashionproduct/13.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/10.jpg"
+                    "images": "assets/images/fashionproduct/10.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/21.jpg"
+                    "images": "assets/images/fashionproduct/21.jpg"
                 }
             ]
         },
@@ -240,10 +240,10 @@
             "salePrice": 580,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/30.jpg",
-                "/multikart/assets/images/fashion/product/29.jpg",
-                "/multikart/assets/images/fashion/product/28.jpg",
-                "/multikart/assets/images/fashion/product/9.jpg"
+                "assets/images/fashionproduct/30.jpg",
+                "assets/images/fashionproduct/29.jpg",
+                "assets/images/fashionproduct/28.jpg",
+                "assets/images/fashionproduct/9.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -268,15 +268,15 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/30.jpg"
+                    "images": "assets/images/fashionproduct/30.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/24.jpg"
+                    "images": "assets/images/fashionproduct/24.jpg"
                 },
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/9.jpg"
+                    "images": "assets/images/fashionproduct/9.jpg"
                 }
             ]
         },
@@ -287,10 +287,10 @@
             "salePrice": 425,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/20.jpg",
-                "/multikart/assets/images/fashion/product/4.jpg",
-                "/multikart/assets/images/fashion/product/35.jpg",
-                "/multikart/assets/images/fashion/product/32.jpg"
+                "assets/images/fashionproduct/20.jpg",
+                "assets/images/fashionproduct/4.jpg",
+                "assets/images/fashionproduct/35.jpg",
+                "assets/images/fashionproduct/32.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -316,15 +316,15 @@
             "variants": [
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/20.jpg"
+                    "images": "assets/images/fashionproduct/20.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/4.jpg"
+                    "images": "assets/images/fashionproduct/4.jpg"
                 },
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/35.jpg"
+                    "images": "assets/images/fashionproduct/35.jpg"
                 }
             ]
         },
@@ -335,10 +335,10 @@
             "salePrice": 280,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/11.jpg",
-                "/multikart/assets/images/fashion/product/6.jpg",
-                "/multikart/assets/images/fashion/product/22.jpg",
-                "/multikart/assets/images/fashion/product/1.jpg"
+                "assets/images/fashionproduct/11.jpg",
+                "assets/images/fashionproduct/6.jpg",
+                "assets/images/fashionproduct/22.jpg",
+                "assets/images/fashionproduct/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -363,11 +363,11 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/11.jpg"
+                    "images": "assets/images/fashionproduct/11.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/1.jpg"
+                    "images": "assets/images/fashionproduct/1.jpg"
                 }
             ]
         },
@@ -378,10 +378,10 @@
             "salePrice": 720,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/14.jpg",
-                "/multikart/assets/images/fashion/product/15.jpg",
-                "/multikart/assets/images/fashion/product/4.jpg",
-                "/multikart/assets/images/fashion/product/19.jpg"
+                "assets/images/fashionproduct/14.jpg",
+                "assets/images/fashionproduct/15.jpg",
+                "assets/images/fashionproduct/4.jpg",
+                "assets/images/fashionproduct/19.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -406,11 +406,11 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/14.jpg"
+                    "images": "assets/images/fashionproduct/14.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/4.jpg"
+                    "images": "assets/images/fashionproduct/4.jpg"
                 }
             ]
         },
@@ -421,10 +421,10 @@
             "salePrice": 220,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/23.jpg",
-                "/multikart/assets/images/fashion/product/22.jpg",
-                "/multikart/assets/images/fashion/product/11.jpg",
-                "/multikart/assets/images/fashion/product/2.jpg"
+                "assets/images/fashionproduct/23.jpg",
+                "assets/images/fashionproduct/22.jpg",
+                "assets/images/fashionproduct/11.jpg",
+                "assets/images/fashionproduct/2.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -450,15 +450,15 @@
             "variants": [
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/23.jpg"
+                    "images": "assets/images/fashionproduct/23.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/22.jpg"
+                    "images": "assets/images/fashionproduct/22.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/2.jpg"
+                    "images": "assets/images/fashionproduct/2.jpg"
                 }
             ]
         },
@@ -469,10 +469,10 @@
             "salePrice": 660,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/9.jpg",
-                "/multikart/assets/images/fashion/product/12.jpg",
-                "/multikart/assets/images/fashion/product/14.jpg",
-                "/multikart/assets/images/fashion/product/19.jpg"
+                "assets/images/fashionproduct/9.jpg",
+                "assets/images/fashionproduct/12.jpg",
+                "assets/images/fashionproduct/14.jpg",
+                "assets/images/fashionproduct/19.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -498,15 +498,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/9.jpg"
+                    "images": "assets/images/fashionproduct/9.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/12.jpg"
+                    "images": "assets/images/fashionproduct/12.jpg"
                 },
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/14.jpg"
+                    "images": "assets/images/fashionproduct/14.jpg"
                 }
             ]
         },
@@ -517,10 +517,10 @@
             "salePrice": 500,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/2.jpg",
-                "/multikart/assets/images/fashion/product/22.jpg",
-                "/multikart/assets/images/fashion/product/24.jpg",
-                "/multikart/assets/images/fashion/product/11.jpg"
+                "assets/images/fashionproduct/2.jpg",
+                "assets/images/fashionproduct/22.jpg",
+                "assets/images/fashionproduct/24.jpg",
+                "assets/images/fashionproduct/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -545,11 +545,11 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/2.jpg"
+                    "images": "assets/images/fashionproduct/2.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/22.jpg"
+                    "images": "assets/images/fashionproduct/22.jpg"
                 }
             ]
         },
@@ -560,10 +560,10 @@
             "salePrice": 1320,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/31.jpg",
-                "/multikart/assets/images/fashion/product/18.jpg",
-                "/multikart/assets/images/fashion/product/24.jpg",
-                "/multikart/assets/images/fashion/product/28.jpg"
+                "assets/images/fashionproduct/31.jpg",
+                "assets/images/fashionproduct/18.jpg",
+                "assets/images/fashionproduct/24.jpg",
+                "assets/images/fashionproduct/28.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -588,11 +588,11 @@
             "variants": [
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/31.jpg"
+                    "images": "assets/images/fashionproduct/31.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/24.jpg"
+                    "images": "assets/images/fashionproduct/24.jpg"
                 }
             ]
         },
@@ -603,10 +603,10 @@
             "salePrice": 425,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/13.jpg",
-                "/multikart/assets/images/fashion/product/22.jpg",
-                "/multikart/assets/images/fashion/product/10.jpg",
-                "/multikart/assets/images/fashion/product/1.jpg"
+                "assets/images/fashionproduct/13.jpg",
+                "assets/images/fashionproduct/22.jpg",
+                "assets/images/fashionproduct/10.jpg",
+                "assets/images/fashionproduct/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -632,15 +632,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/13.jpg"
+                    "images": "assets/images/fashionproduct/13.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/22.jpg"
+                    "images": "assets/images/fashionproduct/22.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/10.jpg"
+                    "images": "assets/images/fashionproduct/10.jpg"
                 }
             ]
         },
@@ -651,10 +651,10 @@
             "salePrice": 700,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/17.jpg",
-                "/multikart/assets/images/fashion/product/21.jpg",
-                "/multikart/assets/images/fashion/product/15.jpg",
-                "/multikart/assets/images/fashion/product/12.jpg"
+                "assets/images/fashionproduct/17.jpg",
+                "assets/images/fashionproduct/21.jpg",
+                "assets/images/fashionproduct/15.jpg",
+                "assets/images/fashionproduct/12.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -680,19 +680,19 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/17.jpg"
+                    "images": "assets/images/fashionproduct/17.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/21.jpg"
+                    "images": "assets/images/fashionproduct/21.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/12.jpg"
+                    "images": "assets/images/fashionproduct/12.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/15.jpg"
+                    "images": "assets/images/fashionproduct/15.jpg"
                 }
             ]
         },
@@ -703,10 +703,10 @@
             "salePrice": 278,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/3.jpg",
-                "/multikart/assets/images/fashion/product/10.jpg",
-                "/multikart/assets/images/fashion/product/24.jpg",
-                "/multikart/assets/images/fashion/product/22.jpg"
+                "assets/images/fashionproduct/3.jpg",
+                "assets/images/fashionproduct/10.jpg",
+                "assets/images/fashionproduct/24.jpg",
+                "assets/images/fashionproduct/22.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -732,15 +732,15 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/3.jpg"
+                    "images": "assets/images/fashionproduct/3.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/10.jpg"
+                    "images": "assets/images/fashionproduct/10.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/24.jpg"
+                    "images": "assets/images/fashionproduct/24.jpg"
                 }
             ]
         },
@@ -751,10 +751,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/25.jpg",
-                "/multikart/assets/images/fashion/product/20.jpg",
-                "/multikart/assets/images/fashion/product/24.jpg",
-                "/multikart/assets/images/fashion/product/34.jpg"
+                "assets/images/fashionproduct/25.jpg",
+                "assets/images/fashionproduct/20.jpg",
+                "assets/images/fashionproduct/24.jpg",
+                "assets/images/fashionproduct/34.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -780,15 +780,15 @@
             "variants": [
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/25.jpg"
+                    "images": "assets/images/fashionproduct/25.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/24.jpg"
+                    "images": "assets/images/fashionproduct/24.jpg"
                 },
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/34.jpg"
+                    "images": "assets/images/fashionproduct/34.jpg"
                 }
             ]
         },
@@ -799,10 +799,10 @@
             "salePrice": 2000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/7.jpg",
-                "/multikart/assets/images/fashion/product/6.jpg",
-                "/multikart/assets/images/fashion/product/8.jpg",
-                "/multikart/assets/images/fashion/product/20.jpg"
+                "assets/images/fashionproduct/7.jpg",
+                "assets/images/fashionproduct/6.jpg",
+                "assets/images/fashionproduct/8.jpg",
+                "assets/images/fashionproduct/20.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -828,15 +828,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/7.jpg"
+                    "images": "assets/images/fashionproduct/7.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/6.jpg"
+                    "images": "assets/images/fashionproduct/6.jpg"
                 },
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/20.jpg"
+                    "images": "assets/images/fashionproduct/20.jpg"
                 }
             ]
         },
@@ -847,10 +847,10 @@
             "salePrice": 500,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/43.jpg",
-                "/multikart/assets/images/fashion/product/59.jpg",
-                "/multikart/assets/images/fashion/product/42.jpg",
-                "/multikart/assets/images/fashion/product/57.jpg"
+                "assets/images/fashionproduct/43.jpg",
+                "assets/images/fashionproduct/59.jpg",
+                "assets/images/fashionproduct/42.jpg",
+                "assets/images/fashionproduct/57.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -876,15 +876,15 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/43.jpg"
+                    "images": "assets/images/fashionproduct/43.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/59.jpg"
+                    "images": "assets/images/fashionproduct/59.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/42.jpg"
+                    "images": "assets/images/fashionproduct/42.jpg"
                 }
             ]
         },
@@ -895,10 +895,10 @@
             "salePrice": 260,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/66.jpg",
-                "/multikart/assets/images/fashion/product/47.jpg",
-                "/multikart/assets/images/fashion/product/74.jpg",
-                "/multikart/assets/images/fashion/product/46.jpg"
+                "assets/images/fashionproduct/66.jpg",
+                "assets/images/fashionproduct/47.jpg",
+                "assets/images/fashionproduct/74.jpg",
+                "assets/images/fashionproduct/46.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -924,15 +924,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/66.jpg"
+                    "images": "assets/images/fashionproduct/66.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/47.jpg"
+                    "images": "assets/images/fashionproduct/47.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/74.jpg"
+                    "images": "assets/images/fashionproduct/74.jpg"
                 }
             ]
         },
@@ -943,10 +943,10 @@
             "salePrice": 300,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/56.jpg",
-                "/multikart/assets/images/fashion/product/49.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg",
-                "/multikart/assets/images/fashion/product/74.jpg"
+                "assets/images/fashionproduct/56.jpg",
+                "assets/images/fashionproduct/49.jpg",
+                "assets/images/fashionproduct/72.jpg",
+                "assets/images/fashionproduct/74.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -971,11 +971,11 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/56.jpg"
+                    "images": "assets/images/fashionproduct/56.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/72.jpg"
+                    "images": "assets/images/fashionproduct/72.jpg"
                 }
             ]
         },
@@ -986,10 +986,10 @@
             "salePrice": 420,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/47.jpg",
-                "/multikart/assets/images/fashion/product/46.jpg",
-                "/multikart/assets/images/fashion/product/55.jpg",
-                "/multikart/assets/images/fashion/product/52.jpg"
+                "assets/images/fashionproduct/47.jpg",
+                "assets/images/fashionproduct/46.jpg",
+                "assets/images/fashionproduct/55.jpg",
+                "assets/images/fashionproduct/52.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1015,15 +1015,15 @@
             "variants": [
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/47.jpg"
+                    "images": "assets/images/fashionproduct/47.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/46.jpg"
+                    "images": "assets/images/fashionproduct/46.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/55.jpg"
+                    "images": "assets/images/fashionproduct/55.jpg"
                 }
             ]
         },
@@ -1034,10 +1034,10 @@
             "salePrice": 840,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/63.jpg",
-                "/multikart/assets/images/fashion/product/46.jpg",
-                "/multikart/assets/images/fashion/product/51.jpg",
-                "/multikart/assets/images/fashion/product/52.jpg"
+                "assets/images/fashionproduct/63.jpg",
+                "assets/images/fashionproduct/46.jpg",
+                "assets/images/fashionproduct/51.jpg",
+                "assets/images/fashionproduct/52.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1063,15 +1063,15 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/63.jpg"
+                    "images": "assets/images/fashionproduct/63.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/46.jpg"
+                    "images": "assets/images/fashionproduct/46.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/51.jpg"
+                    "images": "assets/images/fashionproduct/51.jpg"
                 }
             ]
         },
@@ -1082,10 +1082,10 @@
             "salePrice": 720,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/73.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg",
-                "/multikart/assets/images/fashion/product/80.jpg",
-                "/multikart/assets/images/fashion/product/42.jpg"
+                "assets/images/fashionproduct/73.jpg",
+                "assets/images/fashionproduct/72.jpg",
+                "assets/images/fashionproduct/80.jpg",
+                "assets/images/fashionproduct/42.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1111,15 +1111,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/73.jpg"
+                    "images": "assets/images/fashionproduct/73.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/72.jpg"
+                    "images": "assets/images/fashionproduct/72.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/80.jpg"
+                    "images": "assets/images/fashionproduct/80.jpg"
                 }
             ]
         },
@@ -1130,10 +1130,10 @@
             "salePrice": 450,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/55.jpg",
-                "/multikart/assets/images/fashion/product/57.jpg",
-                "/multikart/assets/images/fashion/product/47.jpg",
-                "/multikart/assets/images/fashion/product/76.jpg"
+                "assets/images/fashionproduct/55.jpg",
+                "assets/images/fashionproduct/57.jpg",
+                "assets/images/fashionproduct/47.jpg",
+                "assets/images/fashionproduct/76.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1158,11 +1158,11 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/55.jpg"
+                    "images": "assets/images/fashionproduct/55.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/47.jpg"
+                    "images": "assets/images/fashionproduct/47.jpg"
                 }
             ]
         },
@@ -1173,10 +1173,10 @@
             "salePrice": 1360,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/51.jpg",
-                "/multikart/assets/images/fashion/product/66.jpg",
-                "/multikart/assets/images/fashion/product/62.jpg",
-                "/multikart/assets/images/fashion/product/77.jpg"
+                "assets/images/fashionproduct/51.jpg",
+                "assets/images/fashionproduct/66.jpg",
+                "assets/images/fashionproduct/62.jpg",
+                "assets/images/fashionproduct/77.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1202,15 +1202,15 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/51.jpg"
+                    "images": "assets/images/fashionproduct/51.jpg"
                 },
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/66.jpg"
+                    "images": "assets/images/fashionproduct/66.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/62.jpg"
+                    "images": "assets/images/fashionproduct/62.jpg"
                 }
             ]
         },
@@ -1221,10 +1221,10 @@
             "salePrice": 1000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/78.jpg",
-                "/multikart/assets/images/fashion/product/71.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg",
-                "/multikart/assets/images/fashion/product/53.jpg"
+                "assets/images/fashionproduct/78.jpg",
+                "assets/images/fashionproduct/71.jpg",
+                "assets/images/fashionproduct/72.jpg",
+                "assets/images/fashionproduct/53.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1249,11 +1249,11 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/78.jpg"
+                    "images": "assets/images/fashionproduct/78.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/71.jpg"
+                    "images": "assets/images/fashionproduct/71.jpg"
                 }
             ]
         },
@@ -1264,10 +1264,10 @@
             "salePrice": 161,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/49.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg",
-                "/multikart/assets/images/fashion/product/60.jpg",
-                "/multikart/assets/images/fashion/product/66.jpg"
+                "assets/images/fashionproduct/49.jpg",
+                "assets/images/fashionproduct/72.jpg",
+                "assets/images/fashionproduct/60.jpg",
+                "assets/images/fashionproduct/66.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1293,15 +1293,15 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/49.jpg"
+                    "images": "assets/images/fashionproduct/49.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/72.jpg"
+                    "images": "assets/images/fashionproduct/72.jpg"
                 },
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/60.jpg"
+                    "images": "assets/images/fashionproduct/60.jpg"
                 }
             ]
         },
@@ -1312,10 +1312,10 @@
             "salePrice": 780,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/47.jpg",
-                "/multikart/assets/images/fashion/product/79.jpg",
-                "/multikart/assets/images/fashion/product/70.jpg",
-                "/multikart/assets/images/fashion/product/42.jpg"
+                "assets/images/fashionproduct/47.jpg",
+                "assets/images/fashionproduct/79.jpg",
+                "assets/images/fashionproduct/70.jpg",
+                "assets/images/fashionproduct/42.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1340,11 +1340,11 @@
             "variants": [
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/47.jpg"
+                    "images": "assets/images/fashionproduct/47.jpg"
                 },
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/79.jpg"
+                    "images": "assets/images/fashionproduct/79.jpg"
                 }
             ]
         },
@@ -1355,10 +1355,10 @@
             "salePrice": 1200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/51.jpg",
-                "/multikart/assets/images/fashion/product/77.jpg",
-                "/multikart/assets/images/fashion/product/65.jpg",
-                "/multikart/assets/images/fashion/product/74.jpg"
+                "assets/images/fashionproduct/51.jpg",
+                "assets/images/fashionproduct/77.jpg",
+                "assets/images/fashionproduct/65.jpg",
+                "assets/images/fashionproduct/74.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1384,15 +1384,15 @@
             "variants": [
                 {
                     "color": "yellow",
-                    "images": "/multikart/assets/images/fashion/product/51.jpg"
+                    "images": "assets/images/fashionproduct/51.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/77.jpg"
+                    "images": "assets/images/fashionproduct/77.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/65.jpg"
+                    "images": "assets/images/fashionproduct/65.jpg"
                 }
             ]
         },
@@ -1403,10 +1403,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/76.jpg",
-                "/multikart/assets/images/fashion/product/60.jpg",
-                "/multikart/assets/images/fashion/product/66.jpg",
-                "/multikart/assets/images/fashion/product/67.jpg"
+                "assets/images/fashionproduct/76.jpg",
+                "assets/images/fashionproduct/60.jpg",
+                "assets/images/fashionproduct/66.jpg",
+                "assets/images/fashionproduct/67.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1431,11 +1431,11 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/76.jpg"
+                    "images": "assets/images/fashionproduct/76.jpg"
                 },
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/60.jpg"
+                    "images": "assets/images/fashionproduct/60.jpg"
                 }
             ]
         },
@@ -1446,10 +1446,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/67.jpg",
-                "/multikart/assets/images/fashion/product/77.jpg",
-                "/multikart/assets/images/fashion/product/71.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg"
+                "assets/images/fashionproduct/67.jpg",
+                "assets/images/fashionproduct/77.jpg",
+                "assets/images/fashionproduct/71.jpg",
+                "assets/images/fashionproduct/72.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1474,11 +1474,11 @@
             "variants": [
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/67.jpg"
+                    "images": "assets/images/fashionproduct/67.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/77.jpg"
+                    "images": "assets/images/fashionproduct/77.jpg"
                 }
             ]
         },
@@ -1489,10 +1489,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/61.jpg",
-                "/multikart/assets/images/fashion/product/75.jpg",
-                "/multikart/assets/images/fashion/product/56.jpg",
-                "/multikart/assets/images/fashion/product/42.jpg"
+                "assets/images/fashionproduct/61.jpg",
+                "assets/images/fashionproduct/75.jpg",
+                "assets/images/fashionproduct/56.jpg",
+                "assets/images/fashionproduct/42.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1518,15 +1518,15 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/61.jpg"
+                    "images": "assets/images/fashionproduct/61.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/75.jpg"
+                    "images": "assets/images/fashionproduct/75.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/56.jpg"
+                    "images": "assets/images/fashionproduct/56.jpg"
                 }
             ]
         },
@@ -1537,10 +1537,10 @@
             "salePrice": 320,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/66.jpg",
-                "/multikart/assets/images/fashion/product/75.jpg",
-                "/multikart/assets/images/fashion/product/78.jpg",
-                "/multikart/assets/images/fashion/product/80.jpg"
+                "assets/images/fashionproduct/66.jpg",
+                "assets/images/fashionproduct/75.jpg",
+                "assets/images/fashionproduct/78.jpg",
+                "assets/images/fashionproduct/80.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1565,11 +1565,11 @@
             "variants": [
                 {
                     "color": "red",
-                    "images": "/multikart/assets/images/fashion/product/66.jpg"
+                    "images": "assets/images/fashionproduct/66.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/75.jpg"
+                    "images": "assets/images/fashionproduct/75.jpg"
                 }
             ]
         },
@@ -1580,10 +1580,10 @@
             "salePrice": 900,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/60.jpg",
-                "/multikart/assets/images/fashion/product/74.jpg",
-                "/multikart/assets/images/fashion/product/47.jpg",
-                "/multikart/assets/images/fashion/product/72.jpg"
+                "assets/images/fashionproduct/60.jpg",
+                "assets/images/fashionproduct/74.jpg",
+                "assets/images/fashionproduct/47.jpg",
+                "assets/images/fashionproduct/72.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1609,15 +1609,15 @@
             "variants": [
                 {
                     "color": "orange",
-                    "images": "/multikart/assets/images/fashion/product/60.jpg"
+                    "images": "assets/images/fashionproduct/60.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/74.jpg"
+                    "images": "assets/images/fashionproduct/74.jpg"
                 },
                 {
                     "color": "green",
-                    "images": "/multikart/assets/images/fashion/product/47.jpg"
+                    "images": "assets/images/fashionproduct/47.jpg"
                 }
             ]
         },
@@ -1628,10 +1628,10 @@
             "salePrice": 230,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/70.jpg",
-                "/multikart/assets/images/fashion/product/67.jpg",
-                "/multikart/assets/images/fashion/product/64.jpg",
-                "/multikart/assets/images/fashion/product/65.jpg"
+                "assets/images/fashionproduct/70.jpg",
+                "assets/images/fashionproduct/67.jpg",
+                "assets/images/fashionproduct/64.jpg",
+                "assets/images/fashionproduct/65.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1656,11 +1656,11 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/70.jpg"
+                    "images": "assets/images/fashionproduct/70.jpg"
                 },
                 {
                     "color": "pink",
-                    "images": "/multikart/assets/images/fashion/product/67.jpg"
+                    "images": "assets/images/fashionproduct/67.jpg"
                 }
             ]
         },
@@ -1671,10 +1671,10 @@
             "salePrice": 240,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/69.jpg",
-                "/multikart/assets/images/fashion/product/55.jpg",
-                "/multikart/assets/images/fashion/product/57.jpg",
-                "/multikart/assets/images/fashion/product/75.jpg"
+                "assets/images/fashionproduct/69.jpg",
+                "assets/images/fashionproduct/55.jpg",
+                "assets/images/fashionproduct/57.jpg",
+                "assets/images/fashionproduct/75.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1700,7 +1700,7 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/69.jpg"
+                    "images": "assets/images/fashionproduct/69.jpg"
                 }
             ]
         },
@@ -1711,10 +1711,10 @@
             "salePrice": 220,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/49.jpg",
-                "/multikart/assets/images/fashion/product/65.jpg",
-                "/multikart/assets/images/fashion/product/68.jpg",
-                "/multikart/assets/images/fashion/product/69.jpg"
+                "assets/images/fashionproduct/49.jpg",
+                "assets/images/fashionproduct/65.jpg",
+                "assets/images/fashionproduct/68.jpg",
+                "assets/images/fashionproduct/69.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1739,11 +1739,11 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/fashion/product/49.jpg"
+                    "images": "assets/images/fashionproduct/49.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/65.jpg"
+                    "images": "assets/images/fashionproduct/65.jpg"
                 }
             ]
         },
@@ -1754,10 +1754,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/fashion/product/62.jpg",
-                "/multikart/assets/images/fashion/product/45.jpg",
-                "/multikart/assets/images/fashion/product/48.jpg",
-                "/multikart/assets/images/fashion/product/49.jpg"
+                "assets/images/fashionproduct/62.jpg",
+                "assets/images/fashionproduct/45.jpg",
+                "assets/images/fashionproduct/48.jpg",
+                "assets/images/fashionproduct/49.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1783,15 +1783,15 @@
             "variants": [
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/fashion/product/62.jpg"
+                    "images": "assets/images/fashionproduct/62.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/fashion/product/45.jpg"
+                    "images": "assets/images/fashionproduct/45.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/fashion/product/48.jpg"
+                    "images": "assets/images/fashionproduct/48.jpg"
                 }
             ]
         },
@@ -1802,10 +1802,10 @@
             "salePrice": 240,
             "discount": 10,
             "pictures": [
-                "/multikart/assets/images/vegetables/pro/2.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg",
-                "/multikart/assets/images/vegetables/pro/1.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg"
+                "assets/images/vegetables/pro/2.jpg",
+                "assets/images/vegetables/pro/4.jpg",
+                "assets/images/vegetables/pro/1.jpg",
+                "assets/images/vegetables/pro/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1821,10 +1821,10 @@
             "salePrice": 200,
             "discount": 10,
             "pictures": [
-                "/multikart/assets/images/vegetables/pro/3.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg",
-                "/multikart/assets/images/vegetables/pro/1.jpg",
-                "/multikart/assets/images/vegetables/pro/5.jpg"
+                "assets/images/vegetables/pro/3.jpg",
+                "assets/images/vegetables/pro/4.jpg",
+                "assets/images/vegetables/pro/1.jpg",
+                "assets/images/vegetables/pro/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1840,10 +1840,10 @@
             "salePrice": 200,
             "discount": 10,
             "pictures": [
-                "/multikart/assets/images/vegetables/pro/6.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg",
-                "/multikart/assets/images/vegetables/pro/1.jpg",
-                "/multikart/assets/images/vegetables/pro/5.jpg"
+                "assets/images/vegetables/pro/6.jpg",
+                "assets/images/vegetables/pro/4.jpg",
+                "assets/images/vegetables/pro/1.jpg",
+                "assets/images/vegetables/pro/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1859,10 +1859,10 @@
             "salePrice": 600,
             "discount": 1,
             "pictures": [
-                "/multikart/assets/images/vegetables/pro/5.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg",
-                "/multikart/assets/images/vegetables/pro/1.jpg",
-                "/multikart/assets/images/vegetables/pro/10.jpg"
+                "assets/images/vegetables/pro/5.jpg",
+                "assets/images/vegetables/pro/4.jpg",
+                "assets/images/vegetables/pro/1.jpg",
+                "assets/images/vegetables/pro/10.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1878,10 +1878,10 @@
             "salePrice": 1000,
             "discount": 1,
             "pictures": [
-                "/multikart/assets/images/vegetables/pro/10.jpg",
-                "/multikart/assets/images/vegetables/pro/4.jpg",
-                "/multikart/assets/images/vegetables/pro/1.jpg",
-                "/multikart/assets/images/vegetables/pro/2.jpg"
+                "assets/images/vegetables/pro/10.jpg",
+                "assets/images/vegetables/pro/4.jpg",
+                "assets/images/vegetables/pro/1.jpg",
+                "assets/images/vegetables/pro/2.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1897,10 +1897,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/7.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/9.jpg"
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/7.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/9.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1918,7 +1918,7 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -1929,10 +1929,10 @@
             "salePrice": 1400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/12.jpg",
-                "/multikart/assets/images/watch/10.jpg"
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/12.jpg",
+                "assets/images/watch/10.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1951,11 +1951,11 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -1966,10 +1966,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/5.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/9.jpg"
+                "assets/images/watch/5.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/9.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -1989,11 +1989,11 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/watch/5.jpg"
+                    "images": "assets/images/watch/5.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -2004,10 +2004,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/7.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/1.jpg"
+                "assets/images/watch/7.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2027,11 +2027,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/7.jpg"
+                    "images": "assets/images/watch/7.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -2042,10 +2042,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/12.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/11jpg"
+                "assets/images/watch/12.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/11jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2065,11 +2065,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/12.jpg"
+                    "images": "assets/images/watch/12.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 }
             ]
         },
@@ -2080,10 +2080,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2103,11 +2103,11 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 }
             ]
         },
@@ -2118,10 +2118,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2142,15 +2142,15 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/watch/10.jpg"
+                    "images": "assets/images/watch/10.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -2161,10 +2161,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/9.jpg",
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/9.jpg",
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2184,11 +2184,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/9.jpg"
+                    "images": "assets/images/watch/9.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -2199,10 +2199,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/7.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/9.jpg"
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/7.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/9.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2220,7 +2220,7 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -2231,10 +2231,10 @@
             "salePrice": 1400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/12.jpg",
-                "/multikart/assets/images/watch/10.jpg"
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/12.jpg",
+                "assets/images/watch/10.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2253,11 +2253,11 @@
             "variants": [
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -2268,10 +2268,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/5.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/9.jpg"
+                "assets/images/watch/5.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/9.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2290,11 +2290,11 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/watch/5.jpg"
+                    "images": "assets/images/watch/5.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -2305,10 +2305,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/7.jpg",
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/1.jpg"
+                "assets/images/watch/7.jpg",
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2327,11 +2327,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/7.jpg"
+                    "images": "assets/images/watch/7.jpg"
                 },
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 }
             ]
         },
@@ -2342,10 +2342,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/12.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/11jpg"
+                "assets/images/watch/12.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/11jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2365,11 +2365,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/12.jpg"
+                    "images": "assets/images/watch/12.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 }
             ]
         },
@@ -2380,10 +2380,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/11.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/11.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2403,11 +2403,11 @@
             "variants": [
                 {
                     "color": "black",
-                    "images": "/multikart/assets/images/watch/11.jpg"
+                    "images": "assets/images/watch/11.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 }
             ]
         },
@@ -2418,10 +2418,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/10.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/10.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2442,15 +2442,15 @@
             "variants": [
                 {
                     "color": "blue",
-                    "images": "/multikart/assets/images/watch/10.jpg"
+                    "images": "assets/images/watch/10.jpg"
                 },
                 {
                     "color": "white",
-                    "images": "/multikart/assets/images/watch/1.jpg"
+                    "images": "assets/images/watch/1.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -2461,10 +2461,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/watch/9.jpg",
-                "/multikart/assets/images/watch/3.jpg",
-                "/multikart/assets/images/watch/1.jpg",
-                "/multikart/assets/images/watch/12jpg"
+                "assets/images/watch/9.jpg",
+                "assets/images/watch/3.jpg",
+                "assets/images/watch/1.jpg",
+                "assets/images/watch/12jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2484,11 +2484,11 @@
             "variants": [
                 {
                     "color": "brown",
-                    "images": "/multikart/assets/images/watch/9.jpg"
+                    "images": "assets/images/watch/9.jpg"
                 },
                 {
                     "color": "gray",
-                    "images": "/multikart/assets/images/watch/3.jpg"
+                    "images": "assets/images/watch/3.jpg"
                 }
             ]
         },
@@ -2499,10 +2499,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/1.jpg",
-                "/multikart/assets/images/furniture/product/2.jpg",
-                "/multikart/assets/images/furniture/product/3.jpg",
-                "/multikart/assets/images/furniture/product/4.jpg"
+                "assets/images/furniture/product/1.jpg",
+                "assets/images/furniture/product/2.jpg",
+                "assets/images/furniture/product/3.jpg",
+                "assets/images/furniture/product/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2524,10 +2524,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/2.jpg",
-                "/multikart/assets/images/furniture/product/3.jpg",
-                "/multikart/assets/images/furniture/product/4.jpg",
-                "/multikart/assets/images/furniture/product/5.jpg"
+                "assets/images/furniture/product/2.jpg",
+                "assets/images/furniture/product/3.jpg",
+                "assets/images/furniture/product/4.jpg",
+                "assets/images/furniture/product/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2547,10 +2547,10 @@
             "salePrice": 500,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/3.jpg",
-                "/multikart/assets/images/furniture/product/4.jpg",
-                "/multikart/assets/images/furniture/product/5.jpg",
-                "/multikart/assets/images/furniture/product/6.jpg"
+                "assets/images/furniture/product/3.jpg",
+                "assets/images/furniture/product/4.jpg",
+                "assets/images/furniture/product/5.jpg",
+                "assets/images/furniture/product/6.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2571,10 +2571,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/4.jpg",
-                "/multikart/assets/images/furniture/product/5.jpg",
-                "/multikart/assets/images/furniture/product/6.jpg",
-                "/multikart/assets/images/furniture/product/7.jpg"
+                "assets/images/furniture/product/4.jpg",
+                "assets/images/furniture/product/5.jpg",
+                "assets/images/furniture/product/6.jpg",
+                "assets/images/furniture/product/7.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2595,10 +2595,10 @@
             "salePrice": 260,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/10.jpg",
-                "/multikart/assets/images/furniture/product/6.jpg",
-                "/multikart/assets/images/furniture/product/7.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/10.jpg",
+                "assets/images/furniture/product/6.jpg",
+                "assets/images/furniture/product/7.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2619,10 +2619,10 @@
             "salePrice": 560,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/6.jpg",
-                "/multikart/assets/images/furniture/product/10.jpg",
-                "/multikart/assets/images/furniture/product/7.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/6.jpg",
+                "assets/images/furniture/product/10.jpg",
+                "assets/images/furniture/product/7.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2642,10 +2642,10 @@
             "salePrice": 320,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/12.jpg",
-                "/multikart/assets/images/furniture/product/10.jpg",
-                "/multikart/assets/images/furniture/product/6.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/12.jpg",
+                "assets/images/furniture/product/10.jpg",
+                "assets/images/furniture/product/6.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2664,10 +2664,10 @@
             "salePrice": 1000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/8.jpg",
-                "/multikart/assets/images/furniture/product/12.jpg",
-                "/multikart/assets/images/furniture/product/13.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/8.jpg",
+                "assets/images/furniture/product/12.jpg",
+                "assets/images/furniture/product/13.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2687,10 +2687,10 @@
             "salePrice": 260,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/22.jpg",
-                "/multikart/assets/images/furniture/product/21.jpg",
-                "/multikart/assets/images/furniture/product/13.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/22.jpg",
+                "assets/images/furniture/product/21.jpg",
+                "assets/images/furniture/product/13.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2709,10 +2709,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/furniture/product/21.jpg",
-                "/multikart/assets/images/furniture/product/19.jpg",
-                "/multikart/assets/images/furniture/product/13.jpg",
-                "/multikart/assets/images/furniture/product/8.jpg"
+                "assets/images/furniture/product/21.jpg",
+                "assets/images/furniture/product/19.jpg",
+                "assets/images/furniture/product/13.jpg",
+                "assets/images/furniture/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2733,10 +2733,10 @@
             "salePrice": 220,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/1.jpg",
-                "/multikart/assets/images/beauty/pro/2.jpg",
-                "/multikart/assets/images/beauty/pro/3.jpg",
-                "/multikart/assets/images/beauty/pro/5.jpg"
+                "assets/images/beauty/pro/1.jpg",
+                "assets/images/beauty/pro/2.jpg",
+                "assets/images/beauty/pro/3.jpg",
+                "assets/images/beauty/pro/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2752,10 +2752,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/2.jpg",
-                "/multikart/assets/images/beauty/pro/3.jpg",
-                "/multikart/assets/images/beauty/pro/4.jpg",
-                "/multikart/assets/images/beauty/pro/5.jpg"
+                "assets/images/beauty/pro/2.jpg",
+                "assets/images/beauty/pro/3.jpg",
+                "assets/images/beauty/pro/4.jpg",
+                "assets/images/beauty/pro/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2771,10 +2771,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/3.jpg",
-                "/multikart/assets/images/beauty/pro/4.jpg",
-                "/multikart/assets/images/beauty/pro/6.jpg",
-                "/multikart/assets/images/beauty/pro/5.jpg"
+                "assets/images/beauty/pro/3.jpg",
+                "assets/images/beauty/pro/4.jpg",
+                "assets/images/beauty/pro/6.jpg",
+                "assets/images/beauty/pro/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2790,10 +2790,10 @@
             "salePrice": 1000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/4.jpg",
-                "/multikart/assets/images/beauty/pro/5.jpg",
-                "/multikart/assets/images/beauty/pro/6.jpg",
-                "/multikart/assets/images/beauty/pro/7.jpg"
+                "assets/images/beauty/pro/4.jpg",
+                "assets/images/beauty/pro/5.jpg",
+                "assets/images/beauty/pro/6.jpg",
+                "assets/images/beauty/pro/7.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2809,10 +2809,10 @@
             "salePrice": 1100,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/5.jpg",
-                "/multikart/assets/images/beauty/pro/10.jpg",
-                "/multikart/assets/images/beauty/pro/6.jpg",
-                "/multikart/assets/images/beauty/pro/7.jpg"
+                "assets/images/beauty/pro/5.jpg",
+                "assets/images/beauty/pro/10.jpg",
+                "assets/images/beauty/pro/6.jpg",
+                "assets/images/beauty/pro/7.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2828,10 +2828,10 @@
             "salePrice": 320,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/7.jpg",
-                "/multikart/assets/images/beauty/pro/10.jpg",
-                "/multikart/assets/images/beauty/pro/8.jpg",
-                "/multikart/assets/images/beauty/pro/11.jpg"
+                "assets/images/beauty/pro/7.jpg",
+                "assets/images/beauty/pro/10.jpg",
+                "assets/images/beauty/pro/8.jpg",
+                "assets/images/beauty/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2847,10 +2847,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/beauty/pro/9.jpg",
-                "/multikart/assets/images/beauty/pro/10.jpg",
-                "/multikart/assets/images/beauty/pro/8.jpg",
-                "/multikart/assets/images/beauty/pro/11.jpg"
+                "assets/images/beauty/pro/9.jpg",
+                "assets/images/beauty/pro/10.jpg",
+                "assets/images/beauty/pro/8.jpg",
+                "assets/images/beauty/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2866,10 +2866,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/beauty/electronics/4.jpg"
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/beauty/electronics/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2885,10 +2885,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/4.jpg",
-                "/multikart/assets/images/electronics/product/5.jpg"
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/4.jpg",
+                "assets/images/electronics/product/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2904,10 +2904,10 @@
             "salePrice": 800,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/6.jpg",
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg"
+                "assets/images/electronics/product/6.jpg",
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/3.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2923,10 +2923,10 @@
             "salePrice": 300,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/7.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg"
+                "assets/images/electronics/product/7.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2942,10 +2942,10 @@
             "salePrice": 360,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/electronics/product/4.jpg"
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/electronics/product/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2961,10 +2961,10 @@
             "salePrice": 440,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/10.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/11.jpg"
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/10.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2980,10 +2980,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/10.jpg",
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/11.jpg"
+                "assets/images/electronics/product/10.jpg",
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -2999,10 +2999,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/beauty/electronics/4.jpg"
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/beauty/electronics/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3018,10 +3018,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/4.jpg",
-                "/multikart/assets/images/electronics/product/5.jpg"
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/4.jpg",
+                "assets/images/electronics/product/5.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3037,10 +3037,10 @@
             "salePrice": 800,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/6.jpg",
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg"
+                "assets/images/electronics/product/6.jpg",
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/3.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3056,10 +3056,10 @@
             "salePrice": 300,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/7.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/1.jpg"
+                "assets/images/electronics/product/7.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3075,10 +3075,10 @@
             "salePrice": 360,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/1.jpg",
-                "/multikart/assets/images/electronics/product/2.jpg",
-                "/multikart/assets/images/electronics/product/3.jpg",
-                "/multikart/assets/images/electronics/product/4.jpg"
+                "assets/images/electronics/product/1.jpg",
+                "assets/images/electronics/product/2.jpg",
+                "assets/images/electronics/product/3.jpg",
+                "assets/images/electronics/product/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3094,10 +3094,10 @@
             "salePrice": 440,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/10.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/11.jpg"
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/10.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3113,10 +3113,10 @@
             "salePrice": 200,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/10.jpg",
-                "/multikart/assets/images/electronics/product/9.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/11.jpg"
+                "assets/images/electronics/product/10.jpg",
+                "assets/images/electronics/product/9.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3132,10 +3132,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/electronics/product/4.jpg",
-                "/multikart/assets/images/electronics/product/10.jpg",
-                "/multikart/assets/images/electronics/product/8.jpg",
-                "/multikart/assets/images/electronics/product/11.jpg"
+                "assets/images/electronics/product/4.jpg",
+                "assets/images/electronics/product/10.jpg",
+                "assets/images/electronics/product/8.jpg",
+                "assets/images/electronics/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3151,10 +3151,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/1.jpg",
-                "/multikart/assets/images/pets/pro/2.jpg",
-                "/multikart/assets/images/pets/pro/3.jpg",
-                "/multikart/assets/images/pets/pro/4.jpg"
+                "assets/images/pets/pro/1.jpg",
+                "assets/images/pets/pro/2.jpg",
+                "assets/images/pets/pro/3.jpg",
+                "assets/images/pets/pro/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3170,10 +3170,10 @@
             "salePrice": 300,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/6.jpg",
-                "/multikart/assets/images/pets/pro/7.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg"
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/6.jpg",
+                "assets/images/pets/pro/7.jpg",
+                "assets/images/pets/pro/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3189,10 +3189,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/9.jpg",
-                "/multikart/assets/images/pets/pro/10.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg",
-                "/multikart/assets/images/pets/pro/1.jpg"
+                "assets/images/pets/pro/9.jpg",
+                "assets/images/pets/pro/10.jpg",
+                "assets/images/pets/pro/11.jpg",
+                "assets/images/pets/pro/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3208,10 +3208,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/14.jpg",
-                "/multikart/assets/images/pets/pro/10.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg"
+                "assets/images/pets/pro/14.jpg",
+                "assets/images/pets/pro/10.jpg",
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3227,10 +3227,10 @@
             "salePrice": 700,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/10.jpg",
-                "/multikart/assets/images/pets/pro/14.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg"
+                "assets/images/pets/pro/10.jpg",
+                "assets/images/pets/pro/14.jpg",
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3246,10 +3246,10 @@
             "salePrice": 260,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/11.jpg",
-                "/multikart/assets/images/pets/pro/15.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg"
+                "assets/images/pets/pro/11.jpg",
+                "assets/images/pets/pro/15.jpg",
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3265,10 +3265,10 @@
             "salePrice": 1000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/6.jpg",
-                "/multikart/assets/images/pets/pro/10.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg"
+                "assets/images/pets/pro/6.jpg",
+                "assets/images/pets/pro/10.jpg",
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3284,10 +3284,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/pets/pro/7.jpg",
-                "/multikart/assets/images/pets/pro/10.jpg",
-                "/multikart/assets/images/pets/pro/8.jpg",
-                "/multikart/assets/images/pets/pro/11.jpg"
+                "assets/images/pets/pro/7.jpg",
+                "assets/images/pets/pro/10.jpg",
+                "assets/images/pets/pro/8.jpg",
+                "assets/images/pets/pro/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3303,10 +3303,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/1.jpg",
-                "/multikart/assets/images/kids/product/2.jpg",
-                "/multikart/assets/images/kids/product/3.jpg",
-                "/multikart/assets/images/kids/product/4.jpg"
+                "assets/images/kids/product/1.jpg",
+                "assets/images/kids/product/2.jpg",
+                "assets/images/kids/product/3.jpg",
+                "assets/images/kids/product/4.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3323,10 +3323,10 @@
             "salePrice": 300,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/6.jpg",
-                "/multikart/assets/images/kids/product/7.jpg",
-                "/multikart/assets/images/kids/product/8.jpg"
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/6.jpg",
+                "assets/images/kids/product/7.jpg",
+                "assets/images/kids/product/8.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3343,10 +3343,10 @@
             "salePrice": 400,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/9.jpg",
-                "/multikart/assets/images/kids/product/10.jpg",
-                "/multikart/assets/images/kids/product/11.jpg",
-                "/multikart/assets/images/kids/product/1.jpg"
+                "assets/images/kids/product/9.jpg",
+                "assets/images/kids/product/10.jpg",
+                "assets/images/kids/product/11.jpg",
+                "assets/images/kids/product/1.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3363,10 +3363,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/14.jpg",
-                "/multikart/assets/images/kids/product/10.jpg",
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/11.jpg"
+                "assets/images/kids/product/14.jpg",
+                "assets/images/kids/product/10.jpg",
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3383,10 +3383,10 @@
             "salePrice": 700,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/10.jpg",
-                "/multikart/assets/images/kids/product/14.jpg",
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/11.jpg"
+                "assets/images/kids/product/10.jpg",
+                "assets/images/kids/product/14.jpg",
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3403,10 +3403,10 @@
             "salePrice": 260,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/11.jpg",
-                "/multikart/assets/images/kids/product/15.jpg",
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/11.jpg"
+                "assets/images/kids/product/11.jpg",
+                "assets/images/kids/product/15.jpg",
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3423,10 +3423,10 @@
             "salePrice": 1000,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/6.jpg",
-                "/multikart/assets/images/kids/product/10.jpg",
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/11.jpg"
+                "assets/images/kids/product/6.jpg",
+                "assets/images/kids/product/10.jpg",
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
@@ -3443,10 +3443,10 @@
             "salePrice": 600,
             "discount": 50,
             "pictures": [
-                "/multikart/assets/images/kids/product/7.jpg",
-                "/multikart/assets/images/kids/product/10.jpg",
-                "/multikart/assets/images/kids/product/8.jpg",
-                "/multikart/assets/images/kids/product/11.jpg"
+                "assets/images/kids/product/7.jpg",
+                "assets/images/kids/product/10.jpg",
+                "assets/images/kids/product/8.jpg",
+                "assets/images/kids/product/11.jpg"
             ],
             "shortDetails": "indian",
             "description": "BHARAT MATA KI JAY",
