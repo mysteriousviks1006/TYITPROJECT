@@ -95,18 +95,18 @@ class Root extends React.Component {
 				<BrowserRouter basename={'/'} >
 					<ScrollContext>
 						<Switch>
-                            <Route exact path={`${process.env.PUBLIC_URL}/`} component={Landing}/>
+                           {/* <Route exact path={`${process.env.PUBLIC_URL}/`} component={Landing}/>
                             <Route path={`${process.env.PUBLIC_URL}/vegetables`} component={Vegetables}/>
 							<Route path={`${process.env.PUBLIC_URL}/electronic`} component={Electronic}/>
                             <Route path={`${process.env.PUBLIC_URL}/furniture`} component={Furniture}/>
 							<Route path={`${process.env.PUBLIC_URL}/pets`} component={Pets}/>
 							<Route path={`${process.env.PUBLIC_URL}/watch`} component={Watch}/>
                             <Route path={`${process.env.PUBLIC_URL}/kids`} component={Kids}/>
-                            <Route path={`${process.env.PUBLIC_URL}/beauty`} component={Beauty}/>
+                            <Route path={`${process.env.PUBLIC_URL}/beauty`} component={Beauty}/>*/}
                             <Layout>
 
                                 {/*Routes For Layouts*/}
-                                <Route path={`${process.env.PUBLIC_URL}/fashion`} component={Fashion}/>
+                                <Route exact path={`${process.env.PUBLIC_URL}/`} component={Fashion}/>
 
 								{/*Routes For Features (Product Collection) */}
 								<Route path={`${process.env.PUBLIC_URL}/left-sidebar/collection`} component={CollectionLeftSidebar}/>

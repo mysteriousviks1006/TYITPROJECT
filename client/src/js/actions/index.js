@@ -5,10 +5,9 @@ import { toast  } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css';
 
 export const fetchProductsBegin = () => ({
-    type: types.FETCH_PRODUCTS_BEGIN
+                type: types.FETCH_PRODUCTS_BEGIN,
+                products
 });
-
-
 
 export const receiveProducts = products => ({
     type: types.RECEIVE_PRODUCTS,
@@ -128,3 +127,8 @@ export const changeCurrency = (symbol) => ({
     symbol
 });
 
+export const setItemsLoading = () =>{
+        return{
+            type: types.ITEMS_LOADING
+        }
+}
