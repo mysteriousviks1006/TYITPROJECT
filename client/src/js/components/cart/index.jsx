@@ -118,10 +118,10 @@ class cartComponent extends Component {
                         </div>
                         <div className="row cart-buttons">
                             <div className="col-6">
-                                <Link to={`${process.env.PUBLIC_URL}/left-sidebar/collection`} className="btn btn-solid">continue shopping</Link>
+                                <Link to='/left-sidebar/collection' className="btn btn-solid">continue shopping</Link>
                             </div>
                             <div className="col-6">
-                                <Link to={`${process.env.PUBLIC_URL}/checkout`} className="btn btn-solid">check out</Link>
+                                <Link to='/checkout' className="btn btn-solid">check out</Link>
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@ class cartComponent extends Component {
                             <div className="col-sm-12">
                                 <div >
                                     <div className="col-sm-12 empty-cart-cls text-center">
-                                        <img src={`${process.env.PUBLIC_URL}/assets/images/icon-empty-cart.png`} className="img-fluid mb-4" alt="" />
+                                        <img src='/assets/images/icon-empty-cart.png' className="img-fluid mb-4" alt="" />
                                         <h3>
                                             <strong>Your Cart is Empty</strong>
                                         </h3>

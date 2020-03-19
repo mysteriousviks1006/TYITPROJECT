@@ -43,11 +43,11 @@ class CollectionLeftSidebar extends Component {
 
                                     <StickyBox offsetTop={20} offsetBottom={20}>
                                         <div>
-                                            <Filter/>
+                                           {/* {<Filter/>} <Filter/> */}
                                             <NewProduct/>
                                             <div className="collection-sidebar-banner">
                                                 <a href="#">
-                                                    <img src={`${process.env.PUBLIC_URL}/assets/images/side-banner.png`} className="img-fluid" alt="" />
+                                                    <img src={`${process.env.PUBLIC_URL}/assets/images/side-banner.png`} className="img-fluid" alt="Img not av" />
                                                 </a>
                                             </div>
                                         </div>

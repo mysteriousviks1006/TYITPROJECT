@@ -7,6 +7,11 @@ import cartReducer from './cart';
 import filtersReducer from './filters';
 import wishlistReducer from './wishlist';
 import compareReducer from './compare';
+import locationReducer from './location';
+import authReducer from './authReducer';
+import errorReducer from './errorReducer';
+import orderReducer from './order';
+import AddressReducer from './address';
 
 
 const rootReducer = combineReducers({
@@ -15,6 +20,11 @@ const rootReducer = combineReducers({
     filters: filtersReducer,
     wishlist: wishlistReducer,
     compare: compareReducer,
+    setlocation: locationReducer,
+    auth: authReducer,
+    error: errorReducer,
+    order: orderReducer,
+    address: AddressReducer,
     Intl
 });
 

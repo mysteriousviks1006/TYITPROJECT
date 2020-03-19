@@ -41,12 +41,10 @@ router.post('/signup', (req, res, next) => {
                     });
                 }else{
                     const admin = new Admin({
-                        _id: new mongoose.Types.ObjectId(),
                         firstName: req.body.firstName,
                         lastName: req.body.lastName,
                         email: req.body.email,
                         password: hash,
-                        createdAt: new Date().toISOString()
                     });
                 
                     admin.save()

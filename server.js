@@ -17,7 +17,7 @@ const db = require('./config/keys').mongoURI;
 
 // Connect to mongo
 
-mongoose.connect(db,{ useNewUrlParser: true})
+mongoose.connect(db,{ useNewUrlParser: true , useCreateIndex: true , useUnifiedTopology: true })
     .then(() => console.log('mongoDB connected...... ') )
     .catch( err => console.log(err));
 

@@ -1,21 +1,38 @@
 import React, {Component} from 'react';
+import { connect } from 'react-redux'
+
+import {addToOrders} from '../../actions'
 
 
 class orderSuccess extends Component {
 
     constructor (props) {
         super (props)
+    }
 
+    // componentDidMount(){
+    //     const orders = this.props.items;
+    //     addToOrders(orders)
+    // }
+
+    onAddToOrders = (products,orderTotal,CheckDate,deliveryDate) => {
+        this.props.addToOrders(products,orderTotal,CheckDate,deliveryDate)
     }
 
     render (){
 
         const {payment, items, symbol, orderTotal} = this.props.location.state;
+        const {auth,address} = this.props;
+        
+
+        
         var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         var current = new Date();
         var next5days = new Date(Date.now() + 5 * 86400000);
         let CheckDate = current.toLocaleDateString("en-US", options).toString()
         let deliveryDate = next5days.toLocaleDateString("en-US", options).toString()
+
+        this.onAddToOrders(items,orderTotal,CheckDate,deliveryDate);
 
         return (
             (payment)?
@@ -100,10 +117,10 @@ class orderSuccess extends Component {
                                     <div className="col-sm-6">
                                         <h4>shipping address</h4>
                                         <ul className="order-detail">
-                                            <li>gerg harvell</li>
-                                            <li>568, suite ave.</li>
-                                            <li>Austrlia, 235153</li>
-                                            <li>Contact No. 987456321</li>
+                                            <li>{` ${auth.user.name} `}</li>
+                                            <li>{`${address.address} `}</li>
+                                            <li>{`${address.city} , ${address.pincode} `}</li>
+                                            <li>{`${address.phone} `}</li>
                                         </ul>
                                     </div>
 
@@ -143,4 +160,9 @@ class orderSuccess extends Component {
     }
 }
 
-export default orderSuccess
+const mapStateToProps = (state) => ({
+    auth: state.auth,
+    address: state.address
+})
+
+export default connect(mapStateToProps,{addToOrders})(orderSuccess)

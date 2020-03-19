@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import Slider from 'react-slick';
 import {connect} from 'react-redux'
 
-import {getTrendingCollection} from '../../../services/index'
+import {getTrendingCollection} from '../../../services'
 import {Product4, Product5} from '../../../services/script'
-import {addToCart, addToWishlist, addToCompare} from "../../../actions/index";
+import {addToCart, addToWishlist, addToCompare} from "../../../actions";
 import ProductItem from '../common/product-item';
 
 class TopCollection extends Component {

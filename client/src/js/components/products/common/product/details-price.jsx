@@ -81,27 +81,7 @@ class DetailsWithPrice extends Component {
                                 <h6 className="product-title size-text">select size
                                     <span><a href="#" data-toggle="modal"
                                              data-target="#sizemodal" onClick={this.onOpenModal} >size chart</a></span></h6>
-                                <div className="modal fade" id="sizemodal" tabIndex="-1"
-                                     role="dialog" aria-labelledby="exampleModalLabel"
-                                     aria-hidden="true">
-                                    <div className="modal-dialog modal-dialog-centered"
-                                         role="document">
-                                        <div className="modal-content">
-                                            <div className="modal-header">
-                                                <h5 className="modal-title"
-                                                    id="exampleModalLabel">Sheer Straight
-                                                    Kurta</h5>
-                                                <button type="button" className="close"
-                                                        data-dismiss="modal" aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <div className="modal-body">
-                                                <img src={`${process.env.PUBLIC_URL}/assets/images/size-chart.jpg`} alt="" className="img-fluid"/>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 <div className="size-box">
                             <ul>
                                 {item.size.map((size, i) => {

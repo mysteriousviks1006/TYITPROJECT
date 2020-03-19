@@ -20,7 +20,7 @@ class BlogDetails extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-sm-12 blog-detail">
-                                <img src={`${process.env.PUBLIC_URL}/assets/images/about/about%20us.jpg`} className="img-fluid" alt=""/>
+                                <img src="assets/images/about/about%20us.jpg" className="img-fluid" alt=""/>
                                 <h3>Remaining essentially unchanged.</h3>
                                 <ul className="post-social">
                                     <li>25 January 2018</li>

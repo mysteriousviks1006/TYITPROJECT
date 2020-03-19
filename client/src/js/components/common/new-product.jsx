@@ -23,7 +23,7 @@ class NewProduct extends Component {
                         <div key={index}>
                             {products.map((product, i) =>
                                 <div className="media" key={i}>
-                                    <Link to={`${process.env.PUBLIC_URL}/left-sidebar/product/${product.id}`}><img className="img-fluid" src={`${product.variants[0].images}`} alt="" /></Link>
+                                    <Link to={`/left-sidebar/product/${product.id}`}> <img className="img-fluid" src={`${process.env.PUBLIC_URL}/${product.variants[0].images}`} alt="Image not Fetched" /></Link>
                                     <div className="media-body align-self-center">
                                         <div className="rating">
                                             <i className="fa fa-star"></i>
@@ -32,7 +32,7 @@ class NewProduct extends Component {
                                             <i className="fa fa-star"></i>
                                             <i className="fa fa-star"></i>
                                         </div>
-                                        <Link to={`${process.env.PUBLIC_URL}/left-sidebar/product/${product.id}`}><h6>{product.name}</h6></Link>
+                                        <Link to={`/left-sidebar/product/${product.id}`}><h6>{product.name}</h6></Link>
                                         <h4>{symbol}{(product.price*product.discount/100)}
                                             <del><span className="money">{symbol}{product.price}</span></del></h4>
                                     </div>
@@ -46,7 +46,7 @@ class NewProduct extends Component {
     }
 }
 
-function mapStateToProps(state) {
+const mapStateToProps = (state) => {
     return {
         items: getBestSeller(state.data.products),
         symbol: state.data.symbol

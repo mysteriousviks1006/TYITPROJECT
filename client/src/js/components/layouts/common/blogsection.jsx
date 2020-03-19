@@ -14,15 +14,15 @@ class BlogSection extends Component {
                             <Slider {...Slider3} className="slide-3 no-arrow ">
                                 <div>
                                     <div className="col-md-12">
-                                        <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                        <Link to="/blog/details" >
                                             <div className="classic-effect">
-                                                <img src={`${process.env.PUBLIC_URL}/assets/images/blog/1.jpg`} className="img-fluid" alt="" />
+                                                <img src="assets/images/blog/1.jpg" className="img-fluid" alt="" />
                                                     <span></span>
                                             </div>
                                         </Link>
                                         <div className="blog-details">
                                             <h4>25 January 2018</h4>
-                                            <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                            <Link to="/blog/details" >
                                                 <p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
                                             <hr className="style1" />
                                                 <h6>by: John Dio , 2 Comment</h6>
@@ -31,15 +31,15 @@ class BlogSection extends Component {
                                 </div>
                                 <div>
                                     <div className="col-md-12">
-                                        <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                        <Link to="/blog/details" >
                                             <div className="classic-effect">
-                                                <img src={`${process.env.PUBLIC_URL}/assets/images/blog/2.jpg`} className="img-fluid" alt="" />
+                                                <img src="assets/images/blog/2.jpg" className="img-fluid" alt="" />
                                                     <span></span>
                                             </div>
                                         </Link>
                                         <div className="blog-details">
                                             <h4>25 January 2018</h4>
-                                            <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                            <Link to="/blog/details" >
                                                 <p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
                                             <hr className="style1"/>
                                                 <h6>by: John Dio , 2 Comment</h6>
@@ -48,15 +48,15 @@ class BlogSection extends Component {
                                 </div>
                                 <div>
                                     <div className="col-md-12">
-                                        <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                        <Link to="/blog/details" >
                                             <div className="classic-effect">
-                                                <img src={`${process.env.PUBLIC_URL}/assets/images/blog/3.jpg`} className="img-fluid" alt="" />
+                                                <img src="assets/images/blog/3.jpg" className="img-fluid" alt="" />
                                                     <span></span>
                                             </div>
                                         </Link>
                                         <div className="blog-details">
                                             <h4>25 January 2018</h4>
-                                            <Link to={`${process.env.PUBLIC_URL}/blog/details`} ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
+                                            <Link to="/blog/details" ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
                                             <hr className="style1"/>
                                                 <h6>by: John Dio , 2 Comment</h6>
                                         </div>
@@ -64,15 +64,15 @@ class BlogSection extends Component {
                                 </div>
                                 <div>
                                     <div className="col-md-12">
-                                    <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                    <Link to="/blog/details" >
                                         <div className="classic-effect">
-                                            <img src={`${process.env.PUBLIC_URL}/assets/images/blog/4.jpg`} className="img-fluid" alt="" />
+                                            <img src="assets/images/blog/4.jpg" className="img-fluid" alt="" />
                                                 <span></span>
                                         </div>
                                     </Link>
                                     <div className="blog-details">
                                         <h4>25 January 2018</h4>
-                                        <Link to={`${process.env.PUBLIC_URL}/blog/details`} ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
+                                        <Link to="/blog/details" ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
                                         <hr className="style1"/>
                                             <h6>by: John Dio , 2 Comment</h6>
                                     </div>
@@ -80,15 +80,15 @@ class BlogSection extends Component {
                                 </div>
                                 <div>
                                     <div className="col-md-12">
-                                        <Link to={`${process.env.PUBLIC_URL}/blog/details`} >
+                                        <Link to="/blog/details" >
                                             <div className="classic-effect">
-                                                <img src={`${process.env.PUBLIC_URL}/assets/images/blog/5.jpg`} className="img-fluid" alt="" />
+                                                <img src="assets/images/blog/5.jpg" className="img-fluid" alt="" />
                                                     <span></span>
                                             </div>
                                         </Link>
                                         <div className="blog-details">
                                             <h4>25 January 2018</h4>
-                                            <Link to={`${process.env.PUBLIC_URL}/blog/details`} ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
+                                            <Link to="/blog/details" ><p>Lorem ipsum dolor sit consectetur adipiscing elit, </p></Link>
                                             <hr className="style1" />
                                                 <h6>by: John Dio , 2 Comment</h6>
                                         </div>

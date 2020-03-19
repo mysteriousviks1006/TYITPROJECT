@@ -8381,7 +8381,6 @@
 [class^="icon-"],
 [class*=" icon-"] {
   font-family: 'themify';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -8394,8 +8393,7 @@
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
   text-decoration: inherit;
-  display: inline-block;
-  speak: none; }
+  display: inline-block; }
 
 /* makes the font 33% larger relative to the icon container */
 .icon-large:before {
@@ -12854,7 +12852,8 @@ header {
       .lookbook .lookbook-block .lookbook-dot:hover span {
         color: #ffffff; }
       .lookbook .lookbook-block .lookbook-dot:hover:before {
-        -webkit-transform: scale(1.3); }
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3); }
 
 /*=====================
     17.2. Beauty Demo css

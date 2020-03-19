@@ -3,7 +3,7 @@
  */
 import data from './data.json';
 
-const products=data.products
+const products = data.products;
 const TIMEOUT = 100
 
 export default {

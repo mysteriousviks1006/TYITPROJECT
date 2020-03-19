@@ -62,9 +62,9 @@ class ProductListItem extends Component {
                         <div className="img-wrapper">
                             <div className="front">
                                 <Link to={`${process.env.PUBLIC_URL}/left-sidebar/product/${product.id}`} ><img
-                                    src={product.variants?
+                                    src={`${process.env.PUBLIC_URL}/${product.variants?
                                         this.state.image?this.state.image:product.variants[0].images
-                                        :product.pictures[0]}
+                                        :product.pictures[0]}`}
                                     className="img-fluid"
                                     alt="" /></Link>
                             </div>
@@ -87,7 +87,7 @@ class ProductListItem extends Component {
                                 {product.variants.map((vari, i) =>
                                     <li className={`grid_thumb_img ${(vari.images === this.state.image)?'active':''}`} key={i}>
                                         <a href="javascript:void(0)" title="Add to Wishlist">
-                                            <img src={`${vari.images}`} onClick={() => this.onClickHandle(vari.images)} />
+                                            <img src={`${process.env.PUBLIC_URL}/${vari.images}`} onClick={() => this.onClickHandle(vari.images)} />
                                         </a>
                                     </li>)
                                 }
@@ -120,9 +120,9 @@ class ProductListItem extends Component {
                                         <div className="row">
                                             <div className="col-lg-6  col-xs-12">
                                                 <div className="quick-view-img">
-                                                    <img src={product.variants?
+                                                    <img src={`${process.env.PUBLIC_URL}/${product.variants?
                                                         this.state.image?this.state.image:product.variants[0].images
-                                                        :product.pictures[0]} alt="" className="img-fluid" />
+                                                        :product.pictures[0]}`} alt="" className="img-fluid" />
                                                 </div>
                                             </div>
                                             <div className="col-lg-6 rtl-text">

@@ -21,32 +21,43 @@ router.post('/signup', (req, res, next) => {
         }else{
 
             bcrypt.hash(req.body.password, 10, (err, hash) => {
-                if(err){
+                if(err == true){
                     return res.status(500).json({
                         error: 'Something went wrong'
                     });
                 }else{
                     const user = new User({
                         _id: new mongoose.Types.ObjectId(),
-                        firstName: req.body.firstName,
-                        lastName: req.body.lastName,
+                        name: req.body.name,
                         email: req.body.email,
                         password: hash,
                         createdAt: new Date().toISOString()
                     });
 
                     user.save()
-                    .then(doc => {
-                        res.status(201).json({
-                            message: 'Account Created Successfully'
-                        });
+                    .then(user => {
+                        jwt.sign({ id: user._id }, 'mysecretkey', (err, token) => {
+                            if(err){
+                                return res.status(500).JSON({
+                                    message: 'Authentication Failed'
+                                });
+                            }else{
+                                res.status(200).json({
+                                        user: {
+                                            id: user._id,
+                                            name: user.name,
+                                            email: user.email
+                                        },
+                                        token: token
+                                    })
+                            }
+                        })
                     })
                     .catch(er => {
                         res.status(500).json({
                             error: er
                         });
                     });
-
 
                 }
                 
@@ -64,39 +75,36 @@ router.post('/signup', (req, res, next) => {
 router.post('/login', (req, res, next) => {
 
     User.findOne({email: req.body.email})
-    .select('_id firstName lastName email password')
+    .select('_id name email password')
     .exec()
     .then(user => {
         if(user){
 
             bcrypt.compare(req.body.password, user.password, (err, result) => {
-                if(err){
+                if(err == true){
                     return res.status(500).json({
                         message: 'Login Failed'
                     })
                 }else{
                     if(result){
-                        const payload = {
-                            userId: user._id,
-                            iat:  Math.floor(Date.now() / 1000) - 30,
-                            exp: Math.floor(Date.now() / 1000) + (60 * 60 * 60 * 24),
-                        }
-                        jwt.sign(payload, 'mysecretkey', (err, token) => {
+                        // const payload = {
+                        //     userId: user._id,
+                        //     iat:  Math.floor(Date.now() / 1000) - 30,
+                        //     exp: Math.floor(Date.now() / 1000) + (60 * 60 * 60 * 24),
+                        // }
+                        jwt.sign({ id: user._id }, 'mysecretkey', (err, token) => {
                             if(err){
                                 return res.status(500).JSON({
                                     message: 'Authentication Failed'
                                 });
                             }else{
                                 res.status(200).json({
-                                    message: {
                                         user: {
-                                            userId: user._id,
-                                            firstName: user.firstName,
-                                            lastName: user.lastName,
+                                            id: user._id,
+                                            name: user.name,
                                             email: user.email
                                         },
                                         token: token
-                                    }
                                 })
                             }
                         })

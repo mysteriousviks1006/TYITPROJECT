@@ -45,7 +45,8 @@ class LeftSideBar extends Component {
     }
 
     render(){
-        const {symbol, item, addToCart, addToCartUnsafe, addToWishlist} = this.props
+        const {symbol, item, addToCart, addToCartUnsafe, addToWishlist} = this.props;
+
         var products = {
             slidesToShow: 1,
             slidesToScroll: 1,
@@ -65,7 +66,7 @@ class LeftSideBar extends Component {
             <div>
                 {/*SEO Support*/}
                 <Helmet>
-                    <title>MultiKart | {item.category} | {item.name}</title>
+                    <title>MultiKart | {item.category} | {item.name} </title>
                     <meta name="description" content="Multikart – Multipurpose eCommerce React Template is a multi-use React template. It is designed to go well with multi-purpose websites. Multikart Bootstrap 4 Template will help you run multiple businesses." />
                 </Helmet>
                 {/*SEO Support End */}
@@ -106,14 +107,14 @@ class LeftSideBar extends Component {
                                             <div className="col-lg-6 product-thumbnail">
                                                 <Slider {...products} asNavFor={this.state.nav2} ref={slider => (this.slider1 = slider)} className="product-slick">
                                                     {item.variants?
-                                                    item.variants.map((vari, index) =>
+                                                    item.variants.map((variant, index) =>
                                                        <div key={index}>
-                                                           <ImageZoom image={vari.images} />
+                                                           <ImageZoom image={variant.images} />
                                                        </div>
                                                     ):
-                                                    item.pictures.map((vari, index) =>
+                                                    item.pictures.map((pictures, index) =>
                                                         <div key={index}>
-                                                            <ImageZoom image={vari} />
+                                                            <ImageZoom image={pictures} />
                                                         </div>
                                                     )}
                                                 </Slider>

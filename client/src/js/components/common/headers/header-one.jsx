@@ -25,13 +25,13 @@ class HeaderOne extends Component {
     /*=====================
          Pre loader
          ==========================*/
-/*     componentDidMount() {
+    componentDidMount() {
         setTimeout(function() {
-           document.querySelector(".loader-wrapper").style = "display: none"; 
+            document.querySelector(".loader-wrapper");
         }, 2000);
 
         this.setState({ open: true });
-    } */
+    }
 
     componentWillMount(){
         window.addEventListener('scroll', this.handleScroll);
@@ -122,14 +122,11 @@ class HeaderOne extends Component {
 															<h6>language</h6>
 															<ul>
 																<li><a href={null} onClick={() => this.changeLanguage('en')}>English</a> </li>
-																<li><a href={null} onClick={() => this.changeLanguage('fn')}>French</a> </li>
 															</ul>
 															<h6>currency</h6>
 															<ul className="list-inline">
-																<li><a href={null} onClick={() => this.props.changeCurrency('€')}>euro</a> </li>
-																<li><a href={null} onClick={() => this.props.changeCurrency('₹')}>rupees</a> </li>
-																<li><a href={null} onClick={() => this.props.changeCurrency('£')}>pound</a> </li>
-																<li><a href={null} onClick={() => this.props.changeCurrency('$')}>doller</a> </li>
+																<li><a href="" onClick={() => this.props.changeCurrency('₹')}>rupees</a> </li>
+																<li><a href="" onClick={() => this.props.changeCurrency('$')}>doller</a> </li>
 															</ul>
 														</div>
 													</li>

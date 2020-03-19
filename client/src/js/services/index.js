@@ -1,4 +1,4 @@
-import products from '../api/data.json'
+
 // Get Unique Brands from Json Data
 export const getBrands = (products) => {
     var uniqueBrands = [];

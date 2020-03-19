@@ -3,11 +3,25 @@ import * as types from '../constants/ActionTypes'
 import store from "../store";
 import { toast  } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css';
+import axios from 'axios';
 
 export const fetchProductsBegin = () => ({
-                type: types.FETCH_PRODUCTS_BEGIN,
-                products
+    type: types.FETCH_PRODUCTS_BEGIN
 });
+
+// export const receiveProducts = () => (dispatch) => {
+//     axios
+//       .get('/api/items')
+//       .then(res =>
+//         dispatch({
+//           type: types.RECEIVE_PRODUCTS,
+//           payload: res.data
+//         })
+//       )
+//       .catch(err =>
+//         console.log(err)
+//       );
+//   };
 
 export const receiveProducts = products => ({
     type: types.RECEIVE_PRODUCTS,
@@ -21,11 +35,11 @@ export const getAllProducts = () => dispatch => {
         return products;
     })
 }
+
 export const fetchSingleProduct = productId => ({
     type: types.FETCH_SINGLE_PRODUCT,
     productId
 })
-
 
 
 
@@ -40,6 +54,20 @@ export const addToCartAndRemoveWishlist = (product,qty) => (dispatch) => {
     dispatch(addToCartUnsafe(product, qty));
     dispatch(removeFromWishlist(product));
 }
+
+export const addToOrders = (products,ordertotal,CheckDate,deliveryDate) => ({
+    type: types.ADD_TO_ORDERS,
+    products,
+    ordertotal,
+    CheckDate,
+    deliveryDate
+});
+
+export const addToAddress = (details) => ({
+    type: types.ADD_TO_ADDRESS,
+    details
+});
+
 export const addToCartUnsafe = (product, qty) => ({
     type: types.ADD_TO_CART,
     product,
@@ -127,8 +155,8 @@ export const changeCurrency = (symbol) => ({
     symbol
 });
 
-export const setItemsLoading = () =>{
-        return{
-            type: types.ITEMS_LOADING
-        }
-}
+// Location
+export const addLocation = (location) => ({
+    type: types.ADD_LOCATION,
+    location
+})
