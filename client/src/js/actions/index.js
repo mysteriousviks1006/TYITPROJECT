@@ -9,20 +9,6 @@ export const fetchProductsBegin = () => ({
     type: types.FETCH_PRODUCTS_BEGIN
 });
 
-// export const receiveProducts = () => (dispatch) => {
-//     axios
-//       .get('/api/items')
-//       .then(res =>
-//         dispatch({
-//           type: types.RECEIVE_PRODUCTS,
-//           payload: res.data
-//         })
-//       )
-//       .catch(err =>
-//         console.log(err)
-//       );
-//   };
-
 export const receiveProducts = products => ({
     type: types.RECEIVE_PRODUCTS,
     products

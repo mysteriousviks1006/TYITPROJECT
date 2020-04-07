@@ -28,9 +28,9 @@ class orderSuccess extends Component {
         
         var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         var current = new Date();
-        var next5days = new Date(Date.now() + 5 * 86400000);
+        var next2hours = new Date(Date.now() + 2000 * 1000);
         let CheckDate = current.toLocaleDateString("en-US", options).toString()
-        let deliveryDate = next5days.toLocaleDateString("en-US", options).toString()
+        let deliveryDate = next2hours.toLocaleDateString("en-US", options).toString()
 
         this.onAddToOrders(items,orderTotal,CheckDate,deliveryDate);
 
