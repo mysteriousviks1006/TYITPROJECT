@@ -77,7 +77,7 @@ class Login extends Component {
                                                        placeholder="Enter your password" required="" onChange={this.handleChange} />
                                         </div>
                                         <Link to="/">
-                                <button onClick={this.onSubmitClick} className="btn btn-solid">Create Account</button>
+                                <button onClick={this.onSubmitClick} className="btn btn-solid">Login</button>
                             </Link>  
                                     </form>
                                 </div>

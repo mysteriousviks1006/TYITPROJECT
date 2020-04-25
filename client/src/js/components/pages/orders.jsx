@@ -96,7 +96,7 @@ class orders extends Component {
                                     </div>
                                     <div className="col-md-12">
                                         <div className="delivery-sec">
-                                            <h3>expected date of delivery</h3>
+                                            <h3>expected time of delivery</h3>
                                             <h2>{order.deliveryDate}</h2>
                                         </div>
                                     </div>

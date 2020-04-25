@@ -274,7 +274,7 @@ class checkOut extends Component {
                                                             </tr>
                                                             <tr>
                                                                 <td>mm/yy</td>
-                                                                <td>2/2020</td>
+                                                                <td>11/2020</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>cvc</td>

@@ -1,13 +1,15 @@
 import React, {Component} from 'react';
 import { connect } from 'react-redux'
 
-import {addToOrders} from '../../actions'
+import {addToOrders,
+        emptyCart } from '../../actions'
 
 
 class orderSuccess extends Component {
 
     constructor (props) {
-        super (props)
+        super (props);
+        this.props.emptyCart();
     }
 
     // componentDidMount(){
@@ -26,11 +28,11 @@ class orderSuccess extends Component {
         
 
         
-        var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        //var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'long', minute: 'numeric', sec: false};
         var current = new Date();
-        var next2hours = new Date(Date.now() + 2000 * 1000);
-        let CheckDate = current.toLocaleDateString("en-US", options).toString()
-        let deliveryDate = next2hours.toLocaleDateString("en-US", options).toString()
+        var next5days = new Date(Date.now() + 2000 * 1000);
+        let CheckDate = current.toLocaleString().toString()
+        let deliveryDate = next5days.toLocaleString().toString()
 
         this.onAddToOrders(items,orderTotal,CheckDate,deliveryDate);
 
@@ -131,7 +133,7 @@ class orderSuccess extends Component {
                                     </div>
                                     <div className="col-md-12">
                                         <div className="delivery-sec">
-                                            <h3>expected date of delivery</h3>
+                                            <h3>expected time of delivery</h3>
                                             <h2>{deliveryDate}</h2>
                                         </div>
                                     </div>
@@ -165,4 +167,4 @@ const mapStateToProps = (state) => ({
     address: state.address
 })
 
-export default connect(mapStateToProps,{addToOrders})(orderSuccess)
+export default connect(mapStateToProps,{addToOrders},{emptyCart})(orderSuccess)
