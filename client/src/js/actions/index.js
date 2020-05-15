@@ -150,7 +150,6 @@ export const addLocation = (location) => ({
 
 export const emptyCart = () => {
     return ({
-        type: types.EMPTY_CART,
-        product_id
+        type: types.EMPTY_CART
     });
 };
