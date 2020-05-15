@@ -1,4 +1,4 @@
-# MERN Shopping List
+# YAP-MART
 
 > Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
@@ -33,8 +33,7 @@ There is a Heroku post build script so that you do not have to compile your Reac
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+VIKAS YADAV AND ADARSH RAJESH
 
 ### Version
 
