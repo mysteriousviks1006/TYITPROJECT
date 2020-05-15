@@ -28,11 +28,11 @@ class orderSuccess extends Component {
         
 
         
-        //var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'long', minute: 'numeric', sec: false};
+        var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         var current = new Date();
-        var next5days = new Date(Date.now() + 2000 * 1000);
-        let CheckDate = current.toLocaleString().toString()
-        let deliveryDate = next5days.toLocaleString().toString()
+        var next5days = new Date(Date.now() + 5 * 86400000);
+        let CheckDate = current.toLocaleDateString("en-US", options).toString()
+        let deliveryDate = next5days.toLocaleDateString("en-US", options).toString()
 
         this.onAddToOrders(items,orderTotal,CheckDate,deliveryDate);
 
